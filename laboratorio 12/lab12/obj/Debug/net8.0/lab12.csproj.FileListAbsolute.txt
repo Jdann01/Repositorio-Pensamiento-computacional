@@ -1,0 +1,14 @@
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\bin\Debug\net8.0\lab12.exe
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\bin\Debug\net8.0\lab12.deps.json
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\bin\Debug\net8.0\lab12.runtimeconfig.json
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\bin\Debug\net8.0\lab12.dll
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\bin\Debug\net8.0\lab12.pdb
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\obj\Debug\net8.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\obj\Debug\net8.0\lab12.AssemblyInfoInputs.cache
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\obj\Debug\net8.0\lab12.AssemblyInfo.cs
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\obj\Debug\net8.0\lab12.csproj.CoreCompileInputs.cache
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\obj\Debug\net8.0\lab12.dll
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\obj\Debug\net8.0\refint\lab12.dll
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\obj\Debug\net8.0\lab12.pdb
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\obj\Debug\net8.0\lab12.genruntimeconfig.cache
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 12\lab12\obj\Debug\net8.0\ref\lab12.dll
