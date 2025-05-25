@@ -1,0 +1,14 @@
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\bin\Debug\net8.0\Proyecto2Ian.exe
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\bin\Debug\net8.0\Proyecto2Ian.deps.json
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\bin\Debug\net8.0\Proyecto2Ian.runtimeconfig.json
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\bin\Debug\net8.0\Proyecto2Ian.dll
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\bin\Debug\net8.0\Proyecto2Ian.pdb
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\obj\Debug\net8.0\Proyecto2Ian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\obj\Debug\net8.0\Proyecto2Ian.AssemblyInfoInputs.cache
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\obj\Debug\net8.0\Proyecto2Ian.AssemblyInfo.cs
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\obj\Debug\net8.0\Proyecto2Ian.csproj.CoreCompileInputs.cache
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\obj\Debug\net8.0\Proyecto2Ian.dll
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\obj\Debug\net8.0\refint\Proyecto2Ian.dll
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\obj\Debug\net8.0\Proyecto2Ian.pdb
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\obj\Debug\net8.0\Proyecto2Ian.genruntimeconfig.cache
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\Proyecto2Ian\obj\Debug\net8.0\ref\Proyecto2Ian.dll
