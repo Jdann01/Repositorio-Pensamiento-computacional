@@ -1,0 +1,14 @@
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\bin\Debug\net8.0\laboratorio 9.exe
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\bin\Debug\net8.0\laboratorio 9.deps.json
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\bin\Debug\net8.0\laboratorio 9.runtimeconfig.json
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\bin\Debug\net8.0\laboratorio 9.dll
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\bin\Debug\net8.0\laboratorio 9.pdb
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\obj\Debug\net8.0\laboratorio 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\obj\Debug\net8.0\laboratorio 9.AssemblyInfoInputs.cache
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\obj\Debug\net8.0\laboratorio 9.AssemblyInfo.cs
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\obj\Debug\net8.0\laboratorio 9.csproj.CoreCompileInputs.cache
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\obj\Debug\net8.0\laboratorio 9.dll
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\obj\Debug\net8.0\refint\laboratorio 9.dll
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\obj\Debug\net8.0\laboratorio 9.pdb
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\obj\Debug\net8.0\laboratorio 9.genruntimeconfig.cache
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 9\laboratorio 9\obj\Debug\net8.0\ref\laboratorio 9.dll
