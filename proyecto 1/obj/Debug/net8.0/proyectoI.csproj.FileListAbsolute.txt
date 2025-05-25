@@ -1,0 +1,14 @@
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\bin\Debug\net8.0\proyectoI.exe
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\bin\Debug\net8.0\proyectoI.deps.json
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\bin\Debug\net8.0\proyectoI.runtimeconfig.json
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\bin\Debug\net8.0\proyectoI.dll
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\bin\Debug\net8.0\proyectoI.pdb
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\obj\Debug\net8.0\proyectoI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\obj\Debug\net8.0\proyectoI.AssemblyInfoInputs.cache
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\obj\Debug\net8.0\proyectoI.AssemblyInfo.cs
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\obj\Debug\net8.0\proyectoI.csproj.CoreCompileInputs.cache
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\obj\Debug\net8.0\proyectoI.dll
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\obj\Debug\net8.0\refint\proyectoI.dll
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\obj\Debug\net8.0\proyectoI.pdb
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\obj\Debug\net8.0\proyectoI.genruntimeconfig.cache
+C:\Users\jeimy\OneDrive\Documents\PROYECTOS VISUAL STUDIO\proyectoI\obj\Debug\net8.0\ref\proyectoI.dll
