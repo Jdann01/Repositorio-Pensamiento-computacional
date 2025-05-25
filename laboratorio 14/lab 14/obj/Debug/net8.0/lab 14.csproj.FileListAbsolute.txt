@@ -1,0 +1,14 @@
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\bin\Debug\net8.0\lab 14.exe
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\bin\Debug\net8.0\lab 14.deps.json
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\bin\Debug\net8.0\lab 14.runtimeconfig.json
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\bin\Debug\net8.0\lab 14.dll
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\bin\Debug\net8.0\lab 14.pdb
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\obj\Debug\net8.0\lab 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\obj\Debug\net8.0\lab 14.AssemblyInfoInputs.cache
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\obj\Debug\net8.0\lab 14.AssemblyInfo.cs
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\obj\Debug\net8.0\lab 14.csproj.CoreCompileInputs.cache
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\obj\Debug\net8.0\lab 14.dll
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\obj\Debug\net8.0\refint\lab 14.dll
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\obj\Debug\net8.0\lab 14.pdb
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\obj\Debug\net8.0\lab 14.genruntimeconfig.cache
+C:\Users\Ian Martinez\OneDrive\Archivos de word\Universidad primer semestre 2025\Pensamiento Computacional LAB\laboratorio 14\lab 14\obj\Debug\net8.0\ref\lab 14.dll
